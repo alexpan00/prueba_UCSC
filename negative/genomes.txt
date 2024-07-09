@@ -1,2 +1,2 @@
 genome hg19
-trackDb C&J/trackDb.txt
+trackDb https://raw.githubusercontent.com/alexpan00/prueba_UCSC/main/negative/C%26J/trackDB.txt

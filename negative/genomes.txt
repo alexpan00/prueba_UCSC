@@ -1,2 +1,2 @@
-genome hg19
+genome mm10
 trackDb https://raw.githubusercontent.com/alexpan00/prueba_UCSC/main/negative/C_J/trackDB.txt

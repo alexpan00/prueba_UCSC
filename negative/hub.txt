@@ -1,0 +1,6 @@
+hub C&J
+shortLabel C&J Hub
+longLabel C&J Isoqaunt
+genomesFile genomes.txt
+email alejandro.pania@csic.es
+descriptionUrl C&J.html 

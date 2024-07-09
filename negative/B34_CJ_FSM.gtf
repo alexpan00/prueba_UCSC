@@ -1,0 +1,17 @@
+chrX	IsoQuant	transcript	94963651	95000575	.	-	.	gene_id "Las1l"; transcript_id "XR_878108.1"; exons "16";
+chrX	IsoQuant	exon	95000264	95000575	.	-	.	gene_id "Las1l"; transcript_id "XR_878108.1"; exon "1"; exon_id "chrX.5082";
+chrX	IsoQuant	exon	94999481	94999606	.	-	.	gene_id "Las1l"; transcript_id "XR_878108.1"; exon "2"; exon_id "chrX.5083";
+chrX	IsoQuant	exon	94998748	94998817	.	-	.	gene_id "Las1l"; transcript_id "XR_878108.1"; exon "3"; exon_id "chrX.5084";
+chrX	IsoQuant	exon	94996828	94996909	.	-	.	gene_id "Las1l"; transcript_id "XR_878108.1"; exon "4"; exon_id "chrX.5085";
+chrX	IsoQuant	exon	94995514	94995795	.	-	.	gene_id "Las1l"; transcript_id "XR_878108.1"; exon "5"; exon_id "chrX.5086";
+chrX	IsoQuant	exon	94994916	94994962	.	-	.	gene_id "Las1l"; transcript_id "XR_878108.1"; exon "6"; exon_id "chrX.5087";
+chrX	IsoQuant	exon	94993943	94994052	.	-	.	gene_id "Las1l"; transcript_id "XR_878108.1"; exon "7"; exon_id "chrX.5088";
+chrX	IsoQuant	exon	94991376	94991461	.	-	.	gene_id "Las1l"; transcript_id "XR_878108.1"; exon "8"; exon_id "chrX.5089";
+chrX	IsoQuant	exon	94991004	94991054	.	-	.	gene_id "Las1l"; transcript_id "XR_878108.1"; exon "9"; exon_id "chrX.5090";
+chrX	IsoQuant	exon	94990473	94990679	.	-	.	gene_id "Las1l"; transcript_id "XR_878108.1"; exon "10"; exon_id "chrX.5091";
+chrX	IsoQuant	exon	94990017	94990164	.	-	.	gene_id "Las1l"; transcript_id "XR_878108.1"; exon "11"; exon_id "chrX.5092";
+chrX	IsoQuant	exon	94983905	94984554	.	-	.	gene_id "Las1l"; transcript_id "XR_878108.1"; exon "12"; exon_id "chrX.5093";
+chrX	IsoQuant	exon	94980978	94981128	.	-	.	gene_id "Las1l"; transcript_id "XR_878108.1"; exon "13"; exon_id "chrX.5094";
+chrX	IsoQuant	exon	94974743	94974805	.	-	.	gene_id "Las1l"; transcript_id "XR_878108.1"; exon "14"; exon_id "chrX.5095";
+chrX	IsoQuant	exon	94964752	94964798	.	-	.	gene_id "Las1l"; transcript_id "XR_878108.1"; exon "15"; exon_id "chrX.5096";
+chrX	IsoQuant	exon	94963651	94964398	.	-	.	gene_id "Las1l"; transcript_id "XR_878108.1"; exon "16"; exon_id "chrX.5097";

@@ -1,2 +1,2 @@
-genome mm10
+genome hg19
 trackDb C&J/trackDb.txt

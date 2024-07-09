@@ -1,6 +1,6 @@
 hub C&J
 shortLabel C&J Hub
 longLabel C&J Isoqaunt
-genomesFile genomes.txt
+genomesFile https://raw.githubusercontent.com/alexpan00/prueba_UCSC/main/negative/genomes.txt
 email alejandro.pania@csic.es
 descriptionUrl C&J.html 
